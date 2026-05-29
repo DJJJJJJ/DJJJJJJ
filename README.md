@@ -1,4 +1,7 @@
 ## Hi there 👋
+🔭 I’m currently working on SAR/PolSAR image interpretation.
+👯 Welcome to discuss radar image interpretation work together.
+📫 How to reach me: dengjie20@nudt.edu.cn.
 
 <!--
 **DJJJJJJ/DJJJJJJ** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
